@@ -1,0 +1,8 @@
+{
+  "ft_pause_menu_cleaner.config.title": "Pause Menu Cleaner",
+  "ft_pause_menu_cleaner.config.hide_send_feedback": "Hide Send Feedback",
+  "ft_pause_menu_cleaner.config.hide_report_bugs": "Hide Report Bugs",
+  "ft_pause_menu_cleaner.config.replace_report_player": "Replace Report Player",
+  "ft_pause_menu_cleaner.pause.auto_third_person": "Auto Third Person",
+  "ft_pause_menu_cleaner.pause.manual_third_person": "Manual Third Person"
+}

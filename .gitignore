@@ -1,0 +1,14 @@
+build/
+backup/
+*.class
+*.log
+
+# Local machine classpaths contain absolute launcher paths.
+classpath*.txt
+sources.txt
+
+# Editor and OS noise.
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini

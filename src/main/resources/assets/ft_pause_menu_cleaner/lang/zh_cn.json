@@ -1,0 +1,8 @@
+{
+  "ft_pause_menu_cleaner.config.title": "暂停菜单清理",
+  "ft_pause_menu_cleaner.config.hide_send_feedback": "隐藏“提供反馈”",
+  "ft_pause_menu_cleaner.config.hide_report_bugs": "隐藏“报告漏洞”",
+  "ft_pause_menu_cleaner.config.replace_report_player": "替换“举报玩家”",
+  "ft_pause_menu_cleaner.pause.auto_third_person": "自动切换第三人称",
+  "ft_pause_menu_cleaner.pause.manual_third_person": "手动切换第三人称"
+}

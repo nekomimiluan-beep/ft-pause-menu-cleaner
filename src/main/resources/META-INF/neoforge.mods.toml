@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "ft_pause_menu_cleaner"
+version = "1.2.11"
+displayName = "自由天地暂停菜单清理"
+authors = "Codex"
+description = '''
+隐藏进入游戏后 ESC 暂停菜单中的反馈、漏洞报告和举报玩家按钮，并提供游戏内配置界面恢复。
+'''
+
+[[dependencies.ft_pause_menu_cleaner]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.ft_pause_menu_cleaner]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.21.2)"
+ordering = "NONE"
+side = "CLIENT"
